@@ -1,6 +1,9 @@
 
 # Configuración  OLED I2C SSD1306
 En la convergencia de la innovación tecnológica y la creatividad visual, la configuración de pantallas OLED adquiere un papel central. En este contexto, el presente texto se adentra en el proceso de configuración de un modelo específico: la pantalla OLED SSD1306. Con el propósito de lograr una comunicación fluida y eficiente, se recurre a la utilización del protocolo I2C y al entorno de programación Arduino IDE. Este repositorio explora los pasos esenciales para llevar a cabo dicha configuración, haciendo hincapié en la obtención del archivo 'oled_hola_mundo', la adaptación precisa de los parámetros de datos en sintonía con el entorno ch55xduino y la consecuente posibilidad de presentar mensajes de manera efectiva en la pantalla. Adentrémonos en esta travesía de integración tecnológica y expresión visual.
+
+![ch52x](./img/basic_mount.png)
+
 # Configurando el entorno! 👋
 Para configurar nuestra pantalla OLED, hacemos uso del Arduino IDE para cargar los archivos.
 Por lo que para poder iniciar con nuestro despliesgue se necesita:
@@ -18,13 +21,6 @@ Por lo que para poder iniciar con nuestro despliesgue se necesita:
 
 ![conexion](./img/button_leds.png)
 
-5. Carga el codigo. 
-
-
-
-## Proyecto en funcionamiento
-
-![imaget](./img/oled.jpg)
 
 
 ## 🛠️ Abre y ejecuta el proyecto
@@ -41,8 +37,8 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 
 ## Conexión 
 ```
-// Wiring:
-// -------
+// Conexión CH552 a LED:
+// -------                                 CH552
 //                                       +--\/--+
 //     OLED (SDA) ---------------- P32  1|°     |16  V33 -------------
 //                ---------------- P14  2|      |15  Vcc -------------
@@ -53,7 +49,8 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 //     OLED (SCL) ---------------- P31  7|      |10  P33 BUZZER or LED
 //                ---------------- P30  8|      |9   P11 -------------
 //                                       +------+
-//
+//                                          
+//                                        OLED I2C SSD1306
 //                                       +---------------+
 //                                       | +---------+   |
 //                                       | |         |   |
@@ -68,5 +65,6 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 
 
 
+## Proyecto en funcionamiento
 
-![ch52x](./img/basic_mount.png)
+![imaget](./img/oled.jpg)
