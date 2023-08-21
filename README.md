@@ -10,15 +10,15 @@ Para configurar nuestra pantalla OLED, hacemos uso del Arduino IDE para cargar l
 Por lo que para poder iniciar con nuestro despliesgue se necesita:
 
 
-[^1]: Descargar el archivo oled_hola_mundo.
-[^2]: Dentro de la carpeta encontrarás un archivo que lleva por nombre "oled_hola_mundo.ino" abre el archivo con Arduino IDE.
-[^3]: Para poder cargar el archivo configura el entorno con las siguiente especificaciones:
+1. Descargar el archivo oled_hola_mundo.
+1. Dentro de la carpeta encontrarás un archivo que lleva por nombre "oled_hola_mundo.ino" abre el archivo con Arduino IDE.
+1. Para poder cargar el archivo configura el entorno con las siguiente especificaciones:
 
     * `Reloj`: *16 Mhz.*
     * `Método de carga`: *USB.*
     * `Ajuste de carga a: ` *"USER CODE /w 2866 USB RAM"*
 
-[^4]: Para completar la carga del codigo, presiona el boton de boot mientras se conecta via USB. 
+1. Para completar la carga del codigo, presiona el boton de boot mientras se conecta via USB. 
 
 
 
