@@ -38,7 +38,8 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 > [!NOTE]
 > El PIN BUZZER o de LED nos permite saber que la transmisión de los datos se ejecutó correctamente. Como se menciona no es necesaria su conexión a menos que se desee ocupar como alerta.
 > 
->![conexion](./img/pin_buzzer.png)
+
+![conexion](./img/pin_buzzer.png)
 
 ## Conexión 
 ```
