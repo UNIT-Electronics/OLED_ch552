@@ -15,6 +15,9 @@ Por lo que para poder iniciar con nuestro despliesgue se necesita:
     * `Ajuste de carga a: ` *"USER CODE /w 2866 USB RAM"*
 
 4. Para completar la carga del codigo, presiona el boton de boot mientras se conecta via USB. 
+
+![conexion](./img/button_leds.png)
+
 5. Carga el codigo. 
 
 
@@ -37,7 +40,7 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 
 
 ## Conexión 
-
+```
 // Wiring:
 // -------
 //                                       +--\/--+
@@ -61,8 +64,9 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 //                                       | |         |   |
 //                                       | +---------+   |
 //                                       +---------------+
+```
 
 
 
-![conexion](./img/button_leds.png)
+
 ![ch52x](./img/basic_mount.png)
