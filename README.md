@@ -37,5 +37,5 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 
 
 ## Conexión 
-![conexion](./img/button_leds.jpg)
-![ch52x](./img/basic_mount.jpg)
+![conexion](./img/button_leds.png)
+![ch52x](./img/basic_mount.png)
