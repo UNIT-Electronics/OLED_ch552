@@ -20,7 +20,9 @@ Por lo que para poder iniciar con nuestro despliesgue se necesita:
 
 [^4]: Para completar la carga del codigo, presiona el boton de boot mientras se conecta via USB. 
 
-![conexion](./img/button_leds.png)
+
+
+>![conexion](./img/button_leds.png)
 
 
 
