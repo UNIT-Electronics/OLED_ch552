@@ -44,14 +44,15 @@ void main(void) {
   CDC_init();                             // init USB CDC
   OLED_init();                            // init OLED
 
-   // Print start message
-  OLED_print("*OLED UNITelectronics*");
-  OLED_print("---------------------");
+ // Print start message
+  OLED_print("*  UNITelectronics  *");
+  OLED_print("---------------------\n");
   OLED_print("Ready\n");
-  OLED_print("_\r");
+
   OLED_print("OLED_ch552\n");
   OLED_print("Hola Mundo!!!!!!!\n");
-  OLED_print("Ready\n");
+  OLED_print("\n");
+  OLED_print("Master");
   beep();
 
 
