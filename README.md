@@ -21,7 +21,7 @@ Por lo que para poder iniciar con nuestro despliesgue se necesita:
 
 ## Proyecto en funcionamiento
 
-![imaget](./img/oled.png)
+![imaget](./img/oled.jpg)
 
 
 ## 🛠️ Abre y ejecuta el proyecto
