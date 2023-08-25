@@ -75,4 +75,4 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 
 ## Proyecto en funcionamiento
 
-![imaget](./img/oled.jpg)
+![imaget](./img/oled.png)
