@@ -78,3 +78,9 @@ La configuración de la conexión, se encuentra asignada en el archivo de la rut
 ## Proyecto en funcionamiento
 
 ![imaget](./img/oled.jpg)
+
+# Proyecto original
+
+Para acceder a información detallada sobre el proyecto mencionado, te invitamos a consultar el repositorio específico del autor:
+
+* [CH552-USB-OLED](https://github.com/wagiminator/CH552-USB-OLED/tree/main)
