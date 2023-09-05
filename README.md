@@ -1,8 +1,10 @@
 
 # Configuración  OLED I2C SSD1306
-En la convergencia de la innovación tecnológica y la creatividad visual, la configuración de pantallas OLED adquiere un papel central. En este contexto, el presente texto se adentra en el proceso de configuración de un modelo específico: la pantalla OLED SSD1306. Con el propósito de lograr una comunicación fluida y eficiente, se recurre a la utilización del protocolo I2C y al entorno de programación Arduino IDE. Este repositorio explora los pasos esenciales para llevar a cabo dicha configuración, haciendo hincapié en la obtención del archivo 'oled_hola_mundo', la adaptación precisa de los parámetros de datos en sintonía con el entorno ch55xduino y la consecuente posibilidad de presentar mensajes de manera efectiva en la pantalla. Adentrémonos en esta travesía de integración tecnológica y expresión visual.
+En la intersección de la innovación tecnológica y la creatividad visual, las pantallas OLED desempeñan un papel central. Este repositorio se enfoca en el proceso de configuración de un modelo específico: la pantalla OLED SSD1306. Hemos adaptado el código original de [Stefan Wagner](https://github.com/wagiminator) con el objetivo de lograr una comunicación eficiente y fluida en el chip ch552. Para lograrlo, utilizamos el protocolo I2C y el entorno de programación Arduino IDE.
 
-Conexion basica de funcionamiento CH552 
+Exploraremos los pasos fundamentales para realizar esta configuración, haciendo especial hincapié en la obtención del archivo 'oled_hola_mundo', la precisa adaptación de los parámetros de datos en armonía con el entorno ch55xduino y la consecuente capacidad de presentar mensajes de manera efectiva en la pantalla. Acompáñanos en esta travesía de integración tecnológica y expresión visual."
+
+Conexión básica de funcionamiento CH552  
 ![ch52x](./img/basic_mount.png)
 
 # Configurando el entorno! 👋
